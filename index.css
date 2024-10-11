@@ -488,7 +488,7 @@ body{
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 760px) {
   #header {
       flex-direction: column;
       align-items: flex-start;
@@ -554,7 +554,7 @@ body{
   }
 
   .main h1 {
-      font-size: 28px;
+      font-size: 24px;
       padding-left: 20px;
       padding-right: 20px;
   }
@@ -586,7 +586,7 @@ body{
 
 
 /* Media queries */
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   
 
   .blogs {
@@ -599,7 +599,7 @@ body{
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .allfooter {
       flex-direction: column;
       padding: 20px;
@@ -620,7 +620,7 @@ body{
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .description h1 {
       font-size: 28px;
   }
@@ -636,7 +636,7 @@ body{
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .blog1 img {
       width: 100%;
       height: auto;
@@ -655,7 +655,7 @@ body{
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .allfooter {
       flex-direction: column;
       padding: 20px;
@@ -681,10 +681,10 @@ body{
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .prev, .next {
       padding: 8px; /* Adjust padding for smaller screens */
-      font-size: 12px; /* Adjust font size for smaller screens */
+      font-size: 10px; /* Adjust font size for smaller screens */
   }
 
   .prev {
@@ -700,9 +700,9 @@ body{
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .heading h1 {
-      font-size: 30px; /* Adjust the font size for smaller screens */
+      font-size: 25px; /* Adjust the font size for smaller screens */
   }
 
   .heading p {
@@ -711,30 +711,30 @@ body{
       padding-left: 20px;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .vision h1,
   .mission h1 {
-      font-size: 28px; /* Adjust the font size for smaller screens */
+      font-size: 24px; /* Adjust the font size for smaller screens */
   }
 
   .vision p,
   .mission p {
-      font-size: 16px; /* Adjust the font size for smaller screens */
+      font-size: 12px; /* Adjust the font size for smaller screens */
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .arrow {
-      font-size: 80px; /* Adjust the font size for smaller screens */
+      font-size: 50px; /* Adjust the font size for smaller screens */
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .vision,
   .mission {
       padding: 10px; /* Adjust the padding for smaller screens */
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .vision h1,
   .vision p,
   .mission h1,
