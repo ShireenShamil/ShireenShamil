@@ -488,7 +488,7 @@ body{
   }
 }
 
-@media (max-width: 760px) {
+@media (max-width: 768px) {
   #header {
       flex-direction: column;
       align-items: flex-start;
@@ -539,9 +539,9 @@ body{
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 480px) {
   #header {
-      padding: 5px 10px;
+      padding: 10px 20px;
   }
 
   #navbar {
@@ -554,39 +554,39 @@ body{
   }
 
   .main h1 {
-      font-size: 20px;
-      padding-left: 10px;
-      padding-right: 10px;
+      font-size: 28px;
+      padding-left: 20px;
+      padding-right: 20px;
   }
 
   .main h2 {
-      font-size: 15px;
-      padding: 0 10px;
+      font-size: 18px;
+      padding: 0 20px;
   }
 
   .button {
-      padding: 8px;
+      padding: 10px;
   }
 
   .btn {
-      font-size: 13px;
+      font-size: 16px;
   }
 
   .description {
-      padding: 5px;
-      margin: 5px;
+      padding: 10px;
+      margin: 10px;
   }
 
   .vision,
   .mission {
       flex-direction: column;
-      margin: 5px;
+      margin: 10px;
   }
 }
 
 
 /* Media queries */
-@media (max-width: 360px) {
+@media (max-width: 768px) {
   
 
   .blogs {
@@ -595,24 +595,24 @@ body{
 
   .blog1 {
       width: 100%;
-      margin: 5px 0;
+      margin: 10px 0;
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 768px) {
   .allfooter {
       flex-direction: column;
-      padding: 10px;
+      padding: 20px;
       width: 100%;
   }
 
   .firstfooter, .secondfooter {
       padding-right: 0;
-      margin-bottom: 10px;
+      margin-bottom: 20px;
   }
 
   .secondfooter h5 {
-      margin-bottom: 5px;
+      margin-bottom: 10px;
   }
 }
 
@@ -620,23 +620,23 @@ body{
 
 
 
-@media (max-width: 360px) {
+@media (max-width: 768px) {
   .description h1 {
-      font-size: 20px;
+      font-size: 28px;
   }
 
   .description h2 {
-      font-size: 15px;
+      font-size: 20px;
   }
 
   .description p {
-      font-size: 10px;
+      font-size: 16px;
   }
 }
 
 
 
-@media (max-width: 360px) {
+@media (max-width: 768px) {
   .blog1 img {
       width: 100%;
       height: auto;
@@ -644,7 +644,7 @@ body{
 
   .blog1 {
       width: 100%;
-      margin: 10px 0;
+      margin: 15px 0;
   }
 }
 
@@ -655,20 +655,20 @@ body{
 
 
 
-@media (max-width: 360px) {
+@media (max-width: 768px) {
   .allfooter {
       flex-direction: column;
-      padding: 10px;
+      padding: 20px;
       width: 100%;
   }
 
   .firstfooter, .secondfooter {
       padding-right: 0;
-      margin-bottom: 10px;
+      margin-bottom: 20px;
   }
 
   .secondfooter h5 {
-      margin-bottom: 8px;
+      margin-bottom: 10px;
   }
 
   .copyright {
@@ -681,10 +681,10 @@ body{
 
 
 
-@media (max-width: 360px) {
+@media (max-width: 768px) {
   .prev, .next {
       padding: 8px; /* Adjust padding for smaller screens */
-      font-size: 8px; /* Adjust font size for smaller screens */
+      font-size: 12px; /* Adjust font size for smaller screens */
   }
 
   .prev {
@@ -700,41 +700,41 @@ body{
 
 
 
-@media (max-width: 360px) {
+@media (max-width: 768px) {
   .heading h1 {
-      font-size: 20px; /* Adjust the font size for smaller screens */
+      font-size: 30px; /* Adjust the font size for smaller screens */
   }
 
   .heading p {
-      font-size: 15px; /* Adjust the font size for smaller screens */
+      font-size: 18px; /* Adjust the font size for smaller screens */
       text-align: left;
-      padding-left: 10px;
+      padding-left: 20px;
   }
 }
-@media (max-width: 360px) {
+@media (max-width: 768px) {
   .vision h1,
   .mission h1 {
-      font-size: 20px; /* Adjust the font size for smaller screens */
+      font-size: 28px; /* Adjust the font size for smaller screens */
   }
 
   .vision p,
   .mission p {
-      font-size: 10px; /* Adjust the font size for smaller screens */
+      font-size: 16px; /* Adjust the font size for smaller screens */
   }
 }
-@media (max-width: 360px) {
+@media (max-width: 768px) {
   .arrow {
-      font-size: 40px; /* Adjust the font size for smaller screens */
+      font-size: 80px; /* Adjust the font size for smaller screens */
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 768px) {
   .vision,
   .mission {
       padding: 10px; /* Adjust the padding for smaller screens */
   }
 }
-@media (max-width: 360px) {
+@media (max-width: 768px) {
   .vision h1,
   .vision p,
   .mission h1,
