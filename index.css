@@ -539,9 +539,9 @@ body{
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 320px) {
   #header {
-      padding: 10px 20px;
+      padding: 5px 10px;
   }
 
   #navbar {
@@ -554,39 +554,39 @@ body{
   }
 
   .main h1 {
-      font-size: 24px;
-      padding-left: 20px;
-      padding-right: 20px;
+      font-size: 20px;
+      padding-left: 10px;
+      padding-right: 10px;
   }
 
   .main h2 {
-      font-size: 18px;
-      padding: 0 20px;
+      font-size: 15px;
+      padding: 0 10px;
   }
 
   .button {
-      padding: 10px;
+      padding: 8px;
   }
 
   .btn {
-      font-size: 16px;
+      font-size: 13px;
   }
 
   .description {
-      padding: 10px;
-      margin: 10px;
+      padding: 5px;
+      margin: 5px;
   }
 
   .vision,
   .mission {
       flex-direction: column;
-      margin: 10px;
+      margin: 5px;
   }
 }
 
 
 /* Media queries */
-@media (max-width: 480px) {
+@media (max-width: 320px) {
   
 
   .blogs {
@@ -595,24 +595,24 @@ body{
 
   .blog1 {
       width: 100%;
-      margin: 10px 0;
+      margin: 5px 0;
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 320px) {
   .allfooter {
       flex-direction: column;
-      padding: 20px;
+      padding: 10px;
       width: 100%;
   }
 
   .firstfooter, .secondfooter {
       padding-right: 0;
-      margin-bottom: 20px;
+      margin-bottom: 10px;
   }
 
   .secondfooter h5 {
-      margin-bottom: 10px;
+      margin-bottom: 5px;
   }
 }
 
@@ -620,23 +620,23 @@ body{
 
 
 
-@media (max-width: 480px) {
+@media (max-width: 320px) {
   .description h1 {
-      font-size: 28px;
-  }
-
-  .description h2 {
       font-size: 20px;
   }
 
+  .description h2 {
+      font-size: 15px;
+  }
+
   .description p {
-      font-size: 16px;
+      font-size: 10px;
   }
 }
 
 
 
-@media (max-width: 480px) {
+@media (max-width: 320px) {
   .blog1 img {
       width: 100%;
       height: auto;
@@ -644,7 +644,7 @@ body{
 
   .blog1 {
       width: 100%;
-      margin: 15px 0;
+      margin: 10px 0;
   }
 }
 
@@ -655,20 +655,20 @@ body{
 
 
 
-@media (max-width: 480px) {
+@media (max-width: 320px) {
   .allfooter {
       flex-direction: column;
-      padding: 20px;
+      padding: 10px;
       width: 100%;
   }
 
   .firstfooter, .secondfooter {
       padding-right: 0;
-      margin-bottom: 20px;
+      margin-bottom: 10px;
   }
 
   .secondfooter h5 {
-      margin-bottom: 10px;
+      margin-bottom: 8px;
   }
 
   .copyright {
@@ -681,10 +681,10 @@ body{
 
 
 
-@media (max-width: 480px) {
+@media (max-width: 320px) {
   .prev, .next {
       padding: 8px; /* Adjust padding for smaller screens */
-      font-size: 10px; /* Adjust font size for smaller screens */
+      font-size: 8px; /* Adjust font size for smaller screens */
   }
 
   .prev {
@@ -700,41 +700,41 @@ body{
 
 
 
-@media (max-width: 480px) {
+@media (max-width: 320px) {
   .heading h1 {
-      font-size: 25px; /* Adjust the font size for smaller screens */
+      font-size: 20px; /* Adjust the font size for smaller screens */
   }
 
   .heading p {
-      font-size: 18px; /* Adjust the font size for smaller screens */
+      font-size: 15px; /* Adjust the font size for smaller screens */
       text-align: left;
-      padding-left: 20px;
+      padding-left: 10px;
   }
 }
-@media (max-width: 480px) {
+@media (max-width: 320px) {
   .vision h1,
   .mission h1 {
-      font-size: 24px; /* Adjust the font size for smaller screens */
+      font-size: 20px; /* Adjust the font size for smaller screens */
   }
 
   .vision p,
   .mission p {
-      font-size: 12px; /* Adjust the font size for smaller screens */
+      font-size: 10px; /* Adjust the font size for smaller screens */
   }
 }
-@media (max-width: 480px) {
+@media (max-width: 320px) {
   .arrow {
-      font-size: 50px; /* Adjust the font size for smaller screens */
+      font-size: 40px; /* Adjust the font size for smaller screens */
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 320px) {
   .vision,
   .mission {
       padding: 10px; /* Adjust the padding for smaller screens */
   }
 }
-@media (max-width: 480px) {
+@media (max-width: 320px) {
   .vision h1,
   .vision p,
   .mission h1,
