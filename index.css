@@ -539,7 +539,7 @@ body{
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 360px) {
   #header {
       padding: 5px 10px;
   }
@@ -586,7 +586,7 @@ body{
 
 
 /* Media queries */
-@media (max-width: 320px) {
+@media (max-width: 360px) {
   
 
   .blogs {
@@ -599,7 +599,7 @@ body{
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 360px) {
   .allfooter {
       flex-direction: column;
       padding: 10px;
@@ -620,7 +620,7 @@ body{
 
 
 
-@media (max-width: 320px) {
+@media (max-width: 360px) {
   .description h1 {
       font-size: 20px;
   }
@@ -636,7 +636,7 @@ body{
 
 
 
-@media (max-width: 320px) {
+@media (max-width: 360px) {
   .blog1 img {
       width: 100%;
       height: auto;
@@ -655,7 +655,7 @@ body{
 
 
 
-@media (max-width: 320px) {
+@media (max-width: 360px) {
   .allfooter {
       flex-direction: column;
       padding: 10px;
@@ -681,7 +681,7 @@ body{
 
 
 
-@media (max-width: 320px) {
+@media (max-width: 360px) {
   .prev, .next {
       padding: 8px; /* Adjust padding for smaller screens */
       font-size: 8px; /* Adjust font size for smaller screens */
@@ -700,7 +700,7 @@ body{
 
 
 
-@media (max-width: 320px) {
+@media (max-width: 360px) {
   .heading h1 {
       font-size: 20px; /* Adjust the font size for smaller screens */
   }
@@ -711,7 +711,7 @@ body{
       padding-left: 10px;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 360px) {
   .vision h1,
   .mission h1 {
       font-size: 20px; /* Adjust the font size for smaller screens */
@@ -722,19 +722,19 @@ body{
       font-size: 10px; /* Adjust the font size for smaller screens */
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 360px) {
   .arrow {
       font-size: 40px; /* Adjust the font size for smaller screens */
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 360px) {
   .vision,
   .mission {
       padding: 10px; /* Adjust the padding for smaller screens */
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 360px) {
   .vision h1,
   .vision p,
   .mission h1,
