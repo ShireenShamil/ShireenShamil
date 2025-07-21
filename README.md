@@ -35,7 +35,6 @@ I'm an aspiring software developer and current undergraduate student specializin
 - **Auto Shutoff Ironboard**: IoT project to prevent fire hazards using sensors and relays
 
 
-
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/shireenshamil)  
