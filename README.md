@@ -5,6 +5,7 @@
 
 I'm an aspiring software developer and current undergraduate student specializing in Information Technology at the University of Moratuwa, Sri Lanka. I'm passionate about using technology to solve real-world problems, especially in the fields of web development, IoT, and full-stack systems. I enjoy learning by doing — building projects that matter.
 
+
 ---
 
 ### 💼 What I Do
