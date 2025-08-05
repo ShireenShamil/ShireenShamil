@@ -58,6 +58,7 @@ I'm an aspiring software developer and current undergraduate student specializin
 <img src="https://github-readme-stats.vercel.app/api?username=ShireenShamil&show_icons=true&theme=tokyonight" /><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ShireenShamil&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShireenShamil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Shireen Shamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShireenShamil&show_icons=true&theme=radical&hide=contribs&count_private=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
